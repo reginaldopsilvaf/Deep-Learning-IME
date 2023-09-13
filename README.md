@@ -1,4 +1,4 @@
-# About this project
+# UNet for semantic segmentation of deforestation areas in satellite images
 
 This research project was developed during my studies in Cartographic Engineering at the Military Institute of Engineering.
 
