@@ -2,8 +2,6 @@
 
 This research project was developed during my studies in Cartographic Engineering at the Military Institute of Engineering.
 
-The main objective was to implement UNet for the semantic segmentation of deforestation areas in satellite images.
-
 Initially, we obtained satellite images from Sentinel-2A with 4 bands (R, G, B, and NIR) using the Google Earth Engine API.
 
 The obtained images correspond to a region in the Amazon Rainforest in the Kayapó Area, Piauí, Brazil.
